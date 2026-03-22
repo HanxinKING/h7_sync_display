@@ -1,0 +1,5 @@
+build
+mx.scratch
+!.settings
+gdbClient_log.txt
+stlinkgdbserver_log.txt
